@@ -20,7 +20,6 @@
 
 class Score {
   // Code disini
-  class Score {
   constructor(point){
     this.subject
     this.points = point
@@ -35,7 +34,6 @@ class Score {
     this.avg = this.sum / this.points.length
     return this.avg
   }
-}
 }
 
 /*=========================================== 
